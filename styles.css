@@ -4,6 +4,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: left;
+}
+	
 .book-library {
     background-color: #ffffff;
     padding: 20px;
@@ -30,15 +38,13 @@ body {
 
 .author {
     color: #777777;
+	text-align: left;
 }
 
 .price {
-    color: #2ecc71;
+    color: white;
     font-weight: bold;
-}
-
-.price-background {
-    background-color: rgb(46, 204, 113);
+	background-color: rgb(46, 204, 113);
     border-radius: 5px;
     height: 30px;
     margin: 10px 0

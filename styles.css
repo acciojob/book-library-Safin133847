@@ -36,3 +36,10 @@ body {
     color: #2ecc71;
     font-weight: bold;
 }
+
+.price-background {
+    background-color: rgb(46, 204, 113);
+    border-radius: 5px;
+    height: 30px;
+    margin: 10px 0
+}

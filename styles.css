@@ -36,7 +36,7 @@ h2 {
 }
 
 .author {
-    color: #777777;
+    color: rgb(119, 119, 119); 
     text-align: left;
 }
 
@@ -47,11 +47,12 @@ h2 {
     border-radius: 5px;
     height: 30px;
     margin: 10px 0;
+    padding: 5px; 
 }
 
 .price-background {
-    background-color: rgb(46, 204, 113); /* Background color for the div */
-    border-radius: 5px; /* Optional: if you want rounded corners */
-    height: 30px; /* Set a height for the background div */
-    margin: 10px 0; /* Add some spacing */
+    background-color: rgb(46, 204, 113); 
+    border-radius: 5px;
+    height: 30px; 
+    margin: 10px 0; 
 }

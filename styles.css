@@ -36,19 +36,19 @@ h2 {
 }
 
 .author {
-    color: rgb(119, 119, 119); 
+    color: #777777; /* Use hex for consistency */
     text-align: left;
 }
 
 .price-background {
-    background-color: rgb(46, 204, 113); 
+    background-color: #2ecc71; /* Use hex for consistency */
     border-radius: 5px;
     margin: 10px 0;
     padding: 5px;
 }
 
 .price {
-    color: white;
+    color: white; /* Ensure the text color is white */
     font-weight: bold;
     margin: 0;
 }

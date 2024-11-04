@@ -15,7 +15,7 @@ h2 {
     background-color: white; 
     max-width: 100%;
     margin: 0 auto;
-    padding: 20px; /* Added padding for better spacing */
+    padding: 20px; 
 }
 
 .book {
@@ -45,7 +45,7 @@ h2 {
 }
 
 .price {
-    color: white !important; /* Ensure this takes precedence */
+    color: white; 
     font-weight: bold;
     margin: 0;
 }

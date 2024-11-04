@@ -45,7 +45,7 @@ h2 {
 }
 
 .price {
-    color: white; /* Ensure this is correctly set */
+    color: white !important; /* Ensure this takes precedence */
     font-weight: bold;
     margin: 0;
 }

@@ -1,3 +1,8 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
 h1 {
     text-align: center;
 }
@@ -7,9 +12,10 @@ h2 {
 }
 
 .book-library {
-    background-color:white; 
+    background-color: white; 
     max-width: 100%;
     margin: 0 auto;
+    padding: 20px; /* Added padding for better spacing */
 }
 
 .book {
@@ -39,7 +45,7 @@ h2 {
 }
 
 .price {
-    color: white;
+    color: white; /* Ensure this is correctly set */
     font-weight: bold;
     margin: 0;
 }
